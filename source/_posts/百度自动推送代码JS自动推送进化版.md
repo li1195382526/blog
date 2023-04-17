@@ -1,6 +1,6 @@
 ---
 title: 百度推送
-date: 2021-08-1 14:24:23
+date: 2021-12-14 14:24:23
 tags:
 ---
 # [百度自动推送代码JS自动推送进化版](https://www.cnblogs.com/chinafine/articles/9359814.html)

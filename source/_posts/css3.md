@@ -5,6 +5,7 @@ text-shadow
 ```
 
 ###### 2.背景属性
+<!-- more -->
 
 ```css
 1.background-origin 背景原点
